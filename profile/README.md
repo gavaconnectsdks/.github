@@ -1,7 +1,7 @@
 # Welcome to GavaConnect
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gavaconnect/.github/main/profile/logo.png" alt="GavaConnect Logo" width="180">
+  <img src="logo.png" alt="GavaConnect Logo" width="180">
 </p>
 
 <p align="center">
